@@ -1,0 +1,6 @@
+framework module MTTextField {
+  umbrella header "MTTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MTTextField_Example' do
+  pod 'MTTextField', :path => '../'
+
+  target 'MTTextField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

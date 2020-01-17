@@ -1,0 +1,16 @@
+PODS:
+  - MTTextField (0.1.0)
+
+DEPENDENCIES:
+  - MTTextField (from `../`)
+
+EXTERNAL SOURCES:
+  MTTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MTTextField: 76aae7430304d066e85effb36a73979acca3038a
+
+PODFILE CHECKSUM: e33290d4b35c5665d43d878fd790315d1107bbb8
+
+COCOAPODS: 1.8.4

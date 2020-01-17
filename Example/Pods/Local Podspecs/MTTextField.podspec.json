@@ -1,0 +1,22 @@
+{
+  "name": "MTTextField",
+  "version": "0.1.0",
+  "summary": "A short description of MTTextField.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangyutao0424/MTTextField",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangyutao0424": "wangyutao0424@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wangyutao0424/MTTextField.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MTTextField/Classes/**/*"
+}
