@@ -9,6 +9,9 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+[![demo](https://github.com/wangyutao0424/MTTextField/blob/master/demo.gif)]
+
+
 ## Requirements
 
 ## Installation
