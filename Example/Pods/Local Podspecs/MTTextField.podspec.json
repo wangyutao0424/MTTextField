@@ -2,7 +2,7 @@
   "name": "MTTextField",
   "version": "0.1.0",
   "summary": "A short description of MTTextField.",
-  "description": "TODO: Add long description of the pod here.",
+  "description": "A TextField package",
   "homepage": "https://github.com/wangyutao0424/MTTextField",
   "license": {
     "type": "MIT",
@@ -16,7 +16,11 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
-  "source_files": "MTTextField/Classes/**/*"
+  "swift_versions": [
+    "5.0"
+  ],
+  "source_files": "MTTextField/Classes/**/*",
+  "swift_version": "5.0"
 }

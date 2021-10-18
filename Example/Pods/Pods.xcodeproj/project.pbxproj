@@ -7,27 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2439DAE652929D6650398C18E1862A24 /* Pods-MTTextField_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8AF027C9BAF102C3D25D0B683FD24BA2 /* Pods-MTTextField_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6BF0DB94F4E30A648B8764EFAF13EE53 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		829B7D2AD909377320316FA84FC5CA2B /* MTTextField-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 70CFDD12855413EE02D89C8A00EB6A21 /* MTTextField-dummy.m */; };
-		8BDE4EB3DB0F0BA2F338CAD1D3A454AF /* Pods-MTTextField_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D445F618A37926AB9D92418F2BD719F3 /* Pods-MTTextField_Tests-dummy.m */; };
-		A36E2B08F7551A28AF579989251F59ED /* Pods-MTTextField_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EEFA2E1E3F12D733DCA1AE4E3780279 /* Pods-MTTextField_Example-dummy.m */; };
-		AF2DE68CF7EDE280F56A7A660BACC12D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		DEA6D165C44E11322C4BA652CFAA9EE3 /* Pods-MTTextField_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FD0263C6D1364D99106749C4232BC9D9 /* Pods-MTTextField_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E2E88760CFDD0241A05FB16F58D065C9 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E47BCA59F7E7F0EC9059BFF7166A2641 /* ReplaceMe.swift */; };
-		E3B9E03D64689D156F3E1FF5BC0EA7E8 /* MTTextField-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5A5103384F36AA9ADDEDA2AAF2420D6C /* MTTextField-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F0216337D421E82C83ACAE61BAB149C2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		03B2C74859C3EAB3C64F89CF6159E125 /* Pods-MTTextField_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8AF027C9BAF102C3D25D0B683FD24BA2 /* Pods-MTTextField_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2D24434D0863CFF5B61790BEFEA09F64 /* Pods-MTTextField_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D445F618A37926AB9D92418F2BD719F3 /* Pods-MTTextField_Tests-dummy.m */; };
+		3415C753B8BCD5411E8A6C90C52E5A08 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		5140ED048EB6595876E85B245E77BEBE /* Pods-MTTextField_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1EEFA2E1E3F12D733DCA1AE4E3780279 /* Pods-MTTextField_Example-dummy.m */; };
+		5A2BDBEF5BAF775958C124F65DEB00B0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
+		5B4B145CA0F31B2864BA8D685437819E /* MTTextField-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D8BD5014BDC276790E1183F09F04BF6 /* MTTextField-dummy.m */; };
+		99A5C0C925330AAC419FDEC1FBF22320 /* FMTTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1E6DE17CF62C01FB0C2CCA28CEA4AE /* FMTTextField.swift */; };
+		A7D8F74EEB2D63A1F729DD433F8A7BFD /* Pods-MTTextField_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FD0263C6D1364D99106749C4232BC9D9 /* Pods-MTTextField_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B7B75E7684E3F7E87B611DDA29E0D537 /* MTTextField-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7CFDCDBA4DAA6D9244D84DA295ECE4B1 /* MTTextField-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B925114CFE0A00C5F74B3D27257F6A52 /* AMTTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC17E09979F00ED85B9C3FF129E8C62 /* AMTTextField.swift */; };
+		FC8765EAA52391DB3EDE8709781F1AF4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		119A135F9396E8312B39656100D999B1 /* PBXContainerItemProxy */ = {
+		4D5104D09F6986B83742D12C9E086980 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 7FBF3B6CF1AADCD8233E1995EEBE3D6B;
 			remoteInfo = "Pods-MTTextField_Example";
 		};
-		56FF51B17B39D997EB1B15929148494C /* PBXContainerItemProxy */ = {
+		66CD40937BFEF4D9AD397DAB2079B26D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -37,74 +38,101 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		013199C8A2E5292BD62652C011A7FFFC /* MTTextField-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MTTextField-prefix.pch"; sourceTree = "<group>"; };
 		02D229086965CDEA47AEF7A7BDC56E0F /* Pods-MTTextField_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MTTextField_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		0B08922EDC2DF26A0ED03A029DB0C968 /* Pods-MTTextField_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MTTextField_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		0BAADAF4927EA537E0DEECE329126C7A /* MTTextField.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MTTextField.framework; path = MTTextField.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E84B826A9AACF4725A2E6A0F15524E0 /* Pods-MTTextField_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MTTextField_Tests-Info.plist"; sourceTree = "<group>"; };
-		0FC799CE70C0A4AFFA526D8822503853 /* MTTextField.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MTTextField.modulemap; sourceTree = "<group>"; };
 		15524540E64B41EF506EA614B4942C78 /* Pods-MTTextField_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MTTextField_Example.release.xcconfig"; sourceTree = "<group>"; };
-		1566EA908496168ACE331FE883B963B3 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		192BDFC2DDEC9126C8FACD87E2C82A55 /* Pods_MTTextField_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MTTextField_Tests.framework; path = "Pods-MTTextField_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EEFA2E1E3F12D733DCA1AE4E3780279 /* Pods-MTTextField_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MTTextField_Example-dummy.m"; sourceTree = "<group>"; };
-		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		27BFB9C2FD366B0BEA9F4E70649A1F39 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		33420BF331AD1AAE8262F32FD9D0610B /* Pods-MTTextField_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MTTextField_Example.modulemap"; sourceTree = "<group>"; };
 		49C703A18B8165FBDA4A67D5F2E4282A /* Pods-MTTextField_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MTTextField_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		4EA67BD726ABE1A4007491ED66E1FA2A /* MTTextField.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MTTextField.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		5A5103384F36AA9ADDEDA2AAF2420D6C /* MTTextField-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MTTextField-umbrella.h"; sourceTree = "<group>"; };
+		5D8BD5014BDC276790E1183F09F04BF6 /* MTTextField-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MTTextField-dummy.m"; sourceTree = "<group>"; };
 		5E6A495C1628EFD5F2450C81E0F64609 /* Pods-MTTextField_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MTTextField_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		70CFDD12855413EE02D89C8A00EB6A21 /* MTTextField-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MTTextField-dummy.m"; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		76673A60CE2EDB5EFFF4F43A7450686B /* Pods-MTTextField_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MTTextField_Example-Info.plist"; sourceTree = "<group>"; };
+		7CFDCDBA4DAA6D9244D84DA295ECE4B1 /* MTTextField-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MTTextField-umbrella.h"; sourceTree = "<group>"; };
 		82978DF609DD7F9F35FDD56AFF09E9F0 /* Pods-MTTextField_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MTTextField_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		875343F2FABE4E48E1F3DC5CAA5DBD96 /* Pods-MTTextField_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MTTextField_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8996F4DA33CBEBC797EF8C9CC4BAF9DE /* MTTextField.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MTTextField.release.xcconfig; sourceTree = "<group>"; };
+		8A1E6DE17CF62C01FB0C2CCA28CEA4AE /* FMTTextField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FMTTextField.swift; path = MTTextField/Classes/FMTTextField.swift; sourceTree = "<group>"; };
 		8AF027C9BAF102C3D25D0B683FD24BA2 /* Pods-MTTextField_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MTTextField_Tests-umbrella.h"; sourceTree = "<group>"; };
 		8F4225320F4BE1A028C585C6FDECC107 /* Pods-MTTextField_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MTTextField_Example-frameworks.sh"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9FC17E09979F00ED85B9C3FF129E8C62 /* AMTTextField.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AMTTextField.swift; path = MTTextField/Classes/AMTTextField.swift; sourceTree = "<group>"; };
 		A1F61040FC41C1065076B8C9DC7A376B /* Pods_MTTextField_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MTTextField_Example.framework; path = "Pods-MTTextField_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BF78BC62DB2A9485785E8732FE485D95 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		C0326373AA5B8E19AF005A8989D1058E /* MTTextField.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MTTextField.xcconfig; sourceTree = "<group>"; };
-		C526C69209D92709E8483050694B624E /* MTTextField-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MTTextField-Info.plist"; sourceTree = "<group>"; };
+		A75B208CFAC80F3E735E2F6D08A9CC7B /* MTTextField.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MTTextField.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B562E8C61D72332551F7359E97093C56 /* MTTextField-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MTTextField-prefix.pch"; sourceTree = "<group>"; };
 		CC76261C4B4153B55ED7938CF423B9F5 /* Pods-MTTextField_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MTTextField_Tests.modulemap"; sourceTree = "<group>"; };
+		CD971296AB7DC41E3BB55FEC23B30FED /* MTTextField.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MTTextField.debug.xcconfig; sourceTree = "<group>"; };
 		D445F618A37926AB9D92418F2BD719F3 /* Pods-MTTextField_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MTTextField_Tests-dummy.m"; sourceTree = "<group>"; };
 		D796725A423E547A5230E0F8444A3DCB /* Pods-MTTextField_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MTTextField_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		E47BCA59F7E7F0EC9059BFF7166A2641 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = MTTextField/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
+		E27A92C270913112BA5C979E289218CD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		EC357ECA2882AA19ECA6686696ECF13D /* MTTextField.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MTTextField.modulemap; sourceTree = "<group>"; };
+		F68E9873532DB4C71C2B4F4BA7974CE0 /* MTTextField-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MTTextField-Info.plist"; sourceTree = "<group>"; };
 		FD0263C6D1364D99106749C4232BC9D9 /* Pods-MTTextField_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MTTextField_Example-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4E1D996B3501BDDDA6C1BE24B4C07D17 /* Frameworks */ = {
+		007168EFD4B36D2A50B6E88A4B43FB11 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF2DE68CF7EDE280F56A7A660BACC12D /* Foundation.framework in Frameworks */,
+				3415C753B8BCD5411E8A6C90C52E5A08 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		67DFA8796CA69904AAE903FF4BA1720A /* Frameworks */ = {
+		752A66AAAF58713F72BFC6FB5A25B78A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BF0DB94F4E30A648B8764EFAF13EE53 /* Foundation.framework in Frameworks */,
+				FC8765EAA52391DB3EDE8709781F1AF4 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C28E51CF6ED745499252AC51A8FCE54D /* Frameworks */ = {
+		AF93409F92959C4836DFD7301CB8A931 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0216337D421E82C83ACAE61BAB149C2 /* Foundation.framework in Frameworks */,
+				5A2BDBEF5BAF775958C124F65DEB00B0 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		40ED54821368A4846E0FC0084557FDA6 /* Development Pods */ = {
+		139E13D61CEFCD3294D4666A1E8DAB0B /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				F52AF9BF4168FA71F1D09A7507C9F82C /* MTTextField */,
+				EC357ECA2882AA19ECA6686696ECF13D /* MTTextField.modulemap */,
+				5D8BD5014BDC276790E1183F09F04BF6 /* MTTextField-dummy.m */,
+				F68E9873532DB4C71C2B4F4BA7974CE0 /* MTTextField-Info.plist */,
+				B562E8C61D72332551F7359E97093C56 /* MTTextField-prefix.pch */,
+				7CFDCDBA4DAA6D9244D84DA295ECE4B1 /* MTTextField-umbrella.h */,
+				CD971296AB7DC41E3BB55FEC23B30FED /* MTTextField.debug.xcconfig */,
+				8996F4DA33CBEBC797EF8C9CC4BAF9DE /* MTTextField.release.xcconfig */,
 			);
-			name = "Development Pods";
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MTTextField";
+			sourceTree = "<group>";
+		};
+		4793AC59E1A5C0AA864281F7422B57E4 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				E27A92C270913112BA5C979E289218CD /* LICENSE */,
+				A75B208CFAC80F3E735E2F6D08A9CC7B /* MTTextField.podspec */,
+				27BFB9C2FD366B0BEA9F4E70649A1F39 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		5AE8E269762F23D024DA1FE44DA14F27 /* Products */ = {
@@ -117,53 +145,33 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7D5997E3108BBDB8FDF03F0EAC74238F /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				BF78BC62DB2A9485785E8732FE485D95 /* LICENSE */,
-				4EA67BD726ABE1A4007491ED66E1FA2A /* MTTextField.podspec */,
-				1566EA908496168ACE331FE883B963B3 /* README.md */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		AEE5BB34426F2C409FBFEE8261AAEA64 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				0FC799CE70C0A4AFFA526D8822503853 /* MTTextField.modulemap */,
-				C0326373AA5B8E19AF005A8989D1058E /* MTTextField.xcconfig */,
-				70CFDD12855413EE02D89C8A00EB6A21 /* MTTextField-dummy.m */,
-				C526C69209D92709E8483050694B624E /* MTTextField-Info.plist */,
-				013199C8A2E5292BD62652C011A7FFFC /* MTTextField-prefix.pch */,
-				5A5103384F36AA9ADDEDA2AAF2420D6C /* MTTextField-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MTTextField";
-			sourceTree = "<group>";
-		};
-		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				40ED54821368A4846E0FC0084557FDA6 /* Development Pods */,
+				E69F4D9FF757D5593AE69199A5A3C0BB /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				5AE8E269762F23D024DA1FE44DA14F27 /* Products */,
 				D249E64BFC72DBCDA41B3581A7D18271 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
+		D064AE56B997AC59119C431BA2CB2740 /* MTTextField */ = {
+			isa = PBXGroup;
+			children = (
+				9FC17E09979F00ED85B9C3FF129E8C62 /* AMTTextField.swift */,
+				8A1E6DE17CF62C01FB0C2CCA28CEA4AE /* FMTTextField.swift */,
+				4793AC59E1A5C0AA864281F7422B57E4 /* Pod */,
+				139E13D61CEFCD3294D4666A1E8DAB0B /* Support Files */,
+			);
+			name = MTTextField;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -193,6 +201,14 @@
 			path = "Target Support Files/Pods-MTTextField_Tests";
 			sourceTree = "<group>";
 		};
+		E69F4D9FF757D5593AE69199A5A3C0BB /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D064AE56B997AC59119C431BA2CB2740 /* MTTextField */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		EB304ABC0AB5E8BE191F0E746145106B /* Pods-MTTextField_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -210,41 +226,30 @@
 			path = "Target Support Files/Pods-MTTextField_Example";
 			sourceTree = "<group>";
 		};
-		F52AF9BF4168FA71F1D09A7507C9F82C /* MTTextField */ = {
-			isa = PBXGroup;
-			children = (
-				E47BCA59F7E7F0EC9059BFF7166A2641 /* ReplaceMe.swift */,
-				7D5997E3108BBDB8FDF03F0EAC74238F /* Pod */,
-				AEE5BB34426F2C409FBFEE8261AAEA64 /* Support Files */,
-			);
-			name = MTTextField;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		932033BCE27BF9271A066FE1CF42F423 /* Headers */ = {
+		0FBA3D96830508E91067E711AD1D4450 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEA6D165C44E11322C4BA652CFAA9EE3 /* Pods-MTTextField_Example-umbrella.h in Headers */,
+				03B2C74859C3EAB3C64F89CF6159E125 /* Pods-MTTextField_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A0649AC4DD8DDA92BB2CC9D2AE20A472 /* Headers */ = {
+		26E043A8741B66923F4543CAE98F5ABE /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E3B9E03D64689D156F3E1FF5BC0EA7E8 /* MTTextField-umbrella.h in Headers */,
+				B7B75E7684E3F7E87B611DDA29E0D537 /* MTTextField-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FFDDD43F356D8454F339EDC4971CC376 /* Headers */ = {
+		58EEE0EFB2B131E2EB5111570C6BAFC1 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2439DAE652929D6650398C18E1862A24 /* Pods-MTTextField_Tests-umbrella.h in Headers */,
+				A7D8F74EEB2D63A1F729DD433F8A7BFD /* Pods-MTTextField_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,12 +258,12 @@
 /* Begin PBXNativeTarget section */
 		1A33FDB62E70E0520CEBD5AF385C296B /* MTTextField */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 060F4A72D10381350EB8D94E3AF08EDE /* Build configuration list for PBXNativeTarget "MTTextField" */;
+			buildConfigurationList = 4611A2B9A7298ABCBDBD767BCB2C26A5 /* Build configuration list for PBXNativeTarget "MTTextField" */;
 			buildPhases = (
-				A0649AC4DD8DDA92BB2CC9D2AE20A472 /* Headers */,
-				5877AE710397C66310B11C71504667AD /* Sources */,
-				4E1D996B3501BDDDA6C1BE24B4C07D17 /* Frameworks */,
-				FF380C0A4490CB4C2F7BAE8A1416C6D2 /* Resources */,
+				26E043A8741B66923F4543CAE98F5ABE /* Headers */,
+				A89275030A5B78434B4741F69AD761B0 /* Sources */,
+				007168EFD4B36D2A50B6E88A4B43FB11 /* Frameworks */,
+				7362DB683FA1C1E52D3F26BFDC70DAF2 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -271,17 +276,17 @@
 		};
 		7FBF3B6CF1AADCD8233E1995EEBE3D6B /* Pods-MTTextField_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 92A93604DD06A491C6426C1741422216 /* Build configuration list for PBXNativeTarget "Pods-MTTextField_Example" */;
+			buildConfigurationList = 2D8250090D5A8681417B5274EBA465ED /* Build configuration list for PBXNativeTarget "Pods-MTTextField_Example" */;
 			buildPhases = (
-				932033BCE27BF9271A066FE1CF42F423 /* Headers */,
-				137F673C89D5CA560C80EA1BDC58A9BF /* Sources */,
-				67DFA8796CA69904AAE903FF4BA1720A /* Frameworks */,
-				9BF3F89B79759AC390A04D38AE6D3C18 /* Resources */,
+				58EEE0EFB2B131E2EB5111570C6BAFC1 /* Headers */,
+				91754BA8FA3915AE8FAA98F1EAD2779C /* Sources */,
+				AF93409F92959C4836DFD7301CB8A931 /* Frameworks */,
+				8025ED9408E3B64F914F79AF38D2A9B6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				80EDF732A96EEAC48F0AC0611C73B04C /* PBXTargetDependency */,
+				F5FB6E9A4EADD8D689D84F6BC136B443 /* PBXTargetDependency */,
 			);
 			name = "Pods-MTTextField_Example";
 			productName = "Pods-MTTextField_Example";
@@ -290,17 +295,17 @@
 		};
 		C8E246D8A3EBDE705BCAFD34A43C0363 /* Pods-MTTextField_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FFE2B281F03E21FCE9AB7D31DD1E65F5 /* Build configuration list for PBXNativeTarget "Pods-MTTextField_Tests" */;
+			buildConfigurationList = 0FDB5ED7F6415EB8198A14817978C7BC /* Build configuration list for PBXNativeTarget "Pods-MTTextField_Tests" */;
 			buildPhases = (
-				FFDDD43F356D8454F339EDC4971CC376 /* Headers */,
-				D746EF7E0B0721E3EF38F3904EAA9EF1 /* Sources */,
-				C28E51CF6ED745499252AC51A8FCE54D /* Frameworks */,
-				EC910B1904F2AEC222CA265D8ABBA542 /* Resources */,
+				0FBA3D96830508E91067E711AD1D4450 /* Headers */,
+				C4DD9701BB520E143CA308D77ED19E77 /* Sources */,
+				752A66AAAF58713F72BFC6FB5A25B78A /* Frameworks */,
+				8B432093E650E1B4F0639D73CB08C135 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				172C6E4A97CD1A61D75EAF64372F5EA8 /* PBXTargetDependency */,
+				A7E84A9F3D1A74D52BB52618466D9A6D /* PBXTargetDependency */,
 			);
 			name = "Pods-MTTextField_Tests";
 			productName = "Pods-MTTextField_Tests";
@@ -322,6 +327,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
 			productRefGroup = 5AE8E269762F23D024DA1FE44DA14F27 /* Products */;
@@ -336,21 +342,21 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9BF3F89B79759AC390A04D38AE6D3C18 /* Resources */ = {
+		7362DB683FA1C1E52D3F26BFDC70DAF2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EC910B1904F2AEC222CA265D8ABBA542 /* Resources */ = {
+		8025ED9408E3B64F914F79AF38D2A9B6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FF380C0A4490CB4C2F7BAE8A1416C6D2 /* Resources */ = {
+		8B432093E650E1B4F0639D73CB08C135 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -360,250 +366,55 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		137F673C89D5CA560C80EA1BDC58A9BF /* Sources */ = {
+		91754BA8FA3915AE8FAA98F1EAD2779C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A36E2B08F7551A28AF579989251F59ED /* Pods-MTTextField_Example-dummy.m in Sources */,
+				5140ED048EB6595876E85B245E77BEBE /* Pods-MTTextField_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5877AE710397C66310B11C71504667AD /* Sources */ = {
+		A89275030A5B78434B4741F69AD761B0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				829B7D2AD909377320316FA84FC5CA2B /* MTTextField-dummy.m in Sources */,
-				E2E88760CFDD0241A05FB16F58D065C9 /* ReplaceMe.swift in Sources */,
+				B925114CFE0A00C5F74B3D27257F6A52 /* AMTTextField.swift in Sources */,
+				99A5C0C925330AAC419FDEC1FBF22320 /* FMTTextField.swift in Sources */,
+				5B4B145CA0F31B2864BA8D685437819E /* MTTextField-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D746EF7E0B0721E3EF38F3904EAA9EF1 /* Sources */ = {
+		C4DD9701BB520E143CA308D77ED19E77 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8BDE4EB3DB0F0BA2F338CAD1D3A454AF /* Pods-MTTextField_Tests-dummy.m in Sources */,
+				2D24434D0863CFF5B61790BEFEA09F64 /* Pods-MTTextField_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		172C6E4A97CD1A61D75EAF64372F5EA8 /* PBXTargetDependency */ = {
+		A7E84A9F3D1A74D52BB52618466D9A6D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-MTTextField_Example";
 			target = 7FBF3B6CF1AADCD8233E1995EEBE3D6B /* Pods-MTTextField_Example */;
-			targetProxy = 119A135F9396E8312B39656100D999B1 /* PBXContainerItemProxy */;
+			targetProxy = 4D5104D09F6986B83742D12C9E086980 /* PBXContainerItemProxy */;
 		};
-		80EDF732A96EEAC48F0AC0611C73B04C /* PBXTargetDependency */ = {
+		F5FB6E9A4EADD8D689D84F6BC136B443 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MTTextField;
 			target = 1A33FDB62E70E0520CEBD5AF385C296B /* MTTextField */;
-			targetProxy = 56FF51B17B39D997EB1B15929148494C /* PBXContainerItemProxy */;
+			targetProxy = 66CD40937BFEF4D9AD397DAB2079B26D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0D0CB11B04CBF8823A9D28B57A0BF549 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C0326373AA5B8E19AF005A8989D1058E /* MTTextField.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MTTextField/MTTextField-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MTTextField/MTTextField-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MTTextField/MTTextField.modulemap";
-				PRODUCT_MODULE_NAME = MTTextField;
-				PRODUCT_NAME = MTTextField;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		0EC6165E21328DE9994CB31755A94A11 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C0326373AA5B8E19AF005A8989D1058E /* MTTextField.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MTTextField/MTTextField-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MTTextField/MTTextField-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MTTextField/MTTextField.modulemap";
-				PRODUCT_MODULE_NAME = MTTextField;
-				PRODUCT_NAME = MTTextField;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		12A2C4D2FB0267297B0A571F88F1366D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 49C703A18B8165FBDA4A67D5F2E4282A /* Pods-MTTextField_Tests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MTTextField_Tests/Pods-MTTextField_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MTTextField_Tests/Pods-MTTextField_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		143A64F84BD883AF5DAF34CE454AB347 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 15524540E64B41EF506EA614B4942C78 /* Pods-MTTextField_Example.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MTTextField_Example/Pods-MTTextField_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MTTextField_Example/Pods-MTTextField_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		186A6947C44AC3F0D8A505C4B6E316DF /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 82978DF609DD7F9F35FDD56AFF09E9F0 /* Pods-MTTextField_Tests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MTTextField_Tests/Pods-MTTextField_Tests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MTTextField_Tests/Pods-MTTextField_Tests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		2B8D5C42B486FE467EB8E347C075C1F3 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 02D229086965CDEA47AEF7A7BDC56E0F /* Pods-MTTextField_Example.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-MTTextField_Example/Pods-MTTextField_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-MTTextField_Example/Pods-MTTextField_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		B0087CB4594321EF41619F3181FE120E /* Release */ = {
+		431BA2B8298F0EE71735B9E0114E1955 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -626,6 +437,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -660,10 +472,74 @@
 			};
 			name = Release;
 		};
-		B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */ = {
+		5D598C9A6BDD4B72582B825FB5A913C1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 49C703A18B8165FBDA4A67D5F2E4282A /* Pods-MTTextField_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MTTextField_Tests/Pods-MTTextField_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MTTextField_Tests/Pods-MTTextField_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		72B43AC914EED09E9B189A9D81F8F1A8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8996F4DA33CBEBC797EF8C9CC4BAF9DE /* MTTextField.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MTTextField/MTTextField-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MTTextField/MTTextField-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MTTextField/MTTextField.modulemap";
+				PRODUCT_MODULE_NAME = MTTextField;
+				PRODUCT_NAME = MTTextField;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		79759604D78320E712558F49DF19AA9F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -686,6 +562,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -724,14 +601,160 @@
 			};
 			name = Debug;
 		};
+		8607E7E12BE22402BEBB8E1A80E3DFCA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 15524540E64B41EF506EA614B4942C78 /* Pods-MTTextField_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MTTextField_Example/Pods-MTTextField_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MTTextField_Example/Pods-MTTextField_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		89D893A06A8F65A91E0B5F5539D3AD62 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 02D229086965CDEA47AEF7A7BDC56E0F /* Pods-MTTextField_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MTTextField_Example/Pods-MTTextField_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MTTextField_Example/Pods-MTTextField_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CA8A44C62A97436AECC5F35338601182 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 82978DF609DD7F9F35FDD56AFF09E9F0 /* Pods-MTTextField_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-MTTextField_Tests/Pods-MTTextField_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-MTTextField_Tests/Pods-MTTextField_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		FC2E80194FA1B641BA9BDD5F58B53C25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CD971296AB7DC41E3BB55FEC23B30FED /* MTTextField.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MTTextField/MTTextField-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MTTextField/MTTextField-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MTTextField/MTTextField.modulemap";
+				PRODUCT_MODULE_NAME = MTTextField;
+				PRODUCT_NAME = MTTextField;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		060F4A72D10381350EB8D94E3AF08EDE /* Build configuration list for PBXNativeTarget "MTTextField" */ = {
+		0FDB5ED7F6415EB8198A14817978C7BC /* Build configuration list for PBXNativeTarget "Pods-MTTextField_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0D0CB11B04CBF8823A9D28B57A0BF549 /* Debug */,
-				0EC6165E21328DE9994CB31755A94A11 /* Release */,
+				5D598C9A6BDD4B72582B825FB5A913C1 /* Debug */,
+				CA8A44C62A97436AECC5F35338601182 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8250090D5A8681417B5274EBA465ED /* Build configuration list for PBXNativeTarget "Pods-MTTextField_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				89D893A06A8F65A91E0B5F5539D3AD62 /* Debug */,
+				8607E7E12BE22402BEBB8E1A80E3DFCA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4611A2B9A7298ABCBDBD767BCB2C26A5 /* Build configuration list for PBXNativeTarget "MTTextField" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC2E80194FA1B641BA9BDD5F58B53C25 /* Debug */,
+				72B43AC914EED09E9B189A9D81F8F1A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -739,26 +762,8 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B8BCBD0110C2658BB5DAADB9B7D97B92 /* Debug */,
-				B0087CB4594321EF41619F3181FE120E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		92A93604DD06A491C6426C1741422216 /* Build configuration list for PBXNativeTarget "Pods-MTTextField_Example" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				2B8D5C42B486FE467EB8E347C075C1F3 /* Debug */,
-				143A64F84BD883AF5DAF34CE454AB347 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		FFE2B281F03E21FCE9AB7D31DD1E65F5 /* Build configuration list for PBXNativeTarget "Pods-MTTextField_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				12A2C4D2FB0267297B0A571F88F1366D /* Debug */,
-				186A6947C44AC3F0D8A505C4B6E316DF /* Release */,
+				79759604D78320E712558F49DF19AA9F /* Debug */,
+				431BA2B8298F0EE71735B9E0114E1955 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

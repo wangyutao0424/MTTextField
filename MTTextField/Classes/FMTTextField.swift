@@ -60,12 +60,12 @@ public class Separator: SeparatorProtocol {
     func reset() {}
 }
 
-class GridSeparator: Separator {
+public class GridSeparator: Separator {
     
     private var _grid: Int
     private var _current: Int?
 
-    init(maxCount: Int, grid: Int) {
+    public init(maxCount: Int, grid: Int) {
         _grid = grid
         super.init()
         _maxCount = maxCount
@@ -90,13 +90,13 @@ class GridSeparator: Separator {
     }
 }
 
-class GroupSeparator: Separator {
+public class GroupSeparator: Separator {
     
     private var _group: [Int]
     private var _current: Int?
     private var _currentIndex: Int = 0
 
-    init(maxCount: Int, group: [Int]) {
+    public init(maxCount: Int, group: [Int]) {
         
         _group = group.filter({ (item) -> Bool in
             return item > 0
@@ -256,7 +256,7 @@ fileprivate class FMTTextFieldManager {
 }
 
 public extension UITextField {
-    public var fmt: FMTCompatible {
+    var fmt: FMTCompatible {
         return FMTCompatible(self)
     }
 }
