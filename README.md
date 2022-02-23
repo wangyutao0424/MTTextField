@@ -25,7 +25,14 @@ phoneTextField.fmt.type = .phone
 phoneTextField.fmt.enabled = true
 ```
 
-自定义separator, GridSeparator可以设定最大位数maxCount，以及grid每几位数做分隔，GroupSeparator则可以自定义不同分隔位数规则，用`group`数组参数来表示。
+### 自定义Separator
+#### GridSeparator
+maxCount: 定义最大位数，超过位数输入无效，例：手机号限定11位，这里可设置11，超过11位输入无反应；
+grid: 表示每2个字符有一个分隔，这样对于银行卡来说，是固定每4位有一个空格分隔符，所以这里选择4；
+
+#### GroupSeparator
+maxCount：同GridSeparator
+group：可以自定义不同分隔位数规则，用`group`数组参数来表示。例如：[1, 2, 3, 4]，则结果为：1 11 111 1111
 ```swift
 let customTextField = UITextField()
 //let customSeparator1 = GridSeparator(maxCount: 10, grid: 2)
